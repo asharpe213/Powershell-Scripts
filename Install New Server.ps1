@@ -1,4 +1,4 @@
-# Script for installing software on a new Designer integration server
+# Script for installing software on a new server
 # a# 1.30.17
 # Prerequisites: Powershell 3.0, Anna has admin permissions to machine
 # Install module from https://gallery.technet.microsoft.com/scriptcenter/2d191bcd-3308-4edd-9de2-88dff796b0bc/
